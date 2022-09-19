@@ -1,3 +1,3 @@
 # TodoList-App
 
-References: https://www.youtube.com/watch?v=BBWyXo-3JGQ&list=WL&index=1
+Reference: https://www.youtube.com/watch?v=BBWyXo-3JGQ&list=WL&index=1
